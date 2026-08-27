@@ -29,19 +29,3 @@ I’m a Data Science student interested in **Machine Learning, Artificial Intell
 
 * **Email:** [aftabhossain0080@gmail.com](mailto:aftabhossain0080@gmail.com)
 * **LinkedIn:** [MD Aftab Hossain](https://linkedin.com/in/md-aftab-hossain-bb46ab342)
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aftabhossain0080-stack&show_icons=true&locale=en" alt="Aftab's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aftabhossain0080-stack&show_icons=true&locale=en&layout=compact" alt="Aftab's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aftabhossain0080-stack" alt="Aftab's GitHub Streak" />
-</p>
