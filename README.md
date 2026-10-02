@@ -2,7 +2,7 @@
 <h3 align="center">Data Science Student | Machine Learning | AI Developer</h3>
 
 <p align="center">
-  I’m a B.Sc. Data Science student at Techno India University, passionate about building real-world data-driven solutions and AI applications. I enjoy competing in hackathons (like Smart India Hackathon) and building impactful projects, from predictive ML models like CIVICSHIELD X to offline peer-to-peer communication tools.
+  I’m a B.Sc. Data Science student at Techno India University, passionate about building real-world data-driven solutions and AI applications. I enjoy competing in hackathons (like Smart India Hackathon) and building impactful projects, from predictive ML models
 </p>
 
 <p align="center">
