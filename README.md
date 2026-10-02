@@ -48,8 +48,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium&hide_border=true" alt="Aftab's GitHub Streak" width="48%" />
 </p>
 
-*(Note: Replace `YOUR_GITHUB_USERNAME` in the image links above with your actual GitHub username for the stats to generate).*
-
 ---
 
 <h3 align="left">📌 Connect With Me</h3>
